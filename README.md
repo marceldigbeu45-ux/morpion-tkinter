@@ -4,7 +4,7 @@ Jeu de morpion developpé en Python avec une interface graphique Tkinter.
 
 Le projet permet de jouer au Tic-Tac-Toe dans une fenêtre interactive. Il gère les tours des joueurs, détecte automatiquement les victoires, reconnait les matchs nuls et permet de relancer une partie.
 
-## Fonctionnalites
+## Fonctionnalités
 
 - Interface graphique avec Tkinter
 - Jeu a deux joueurs
@@ -12,7 +12,7 @@ Le projet permet de jouer au Tic-Tac-Toe dans une fenêtre interactive. Il gère
 - Gestion des matchs nuls
 - Bouton pour recommencer une partie
 
-## Prerequis
+## Prérequis
 
 - Python 3
 - Tkinter, inclus avec la plupart des installations Python
