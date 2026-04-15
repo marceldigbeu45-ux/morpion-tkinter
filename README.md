@@ -7,7 +7,7 @@ Le projet permet de jouer au Tic-Tac-Toe dans une fenêtre interactive. Il gère
 ## Fonctionnalités
 
 - Interface graphique avec Tkinter
-- Jeu a deux joueurs
+- Jeu à deux joueurs
 - Détection automatique du gagnant
 - Gestion des matchs nuls
 - Bouton pour recommencer une partie
